@@ -5,7 +5,7 @@
 # e.g., 'email@gmail.com'
 MAIL = ''
 # Enter the ip camera url (e.g., url = 'http://191.138.0.100:8040/video')
-url ='rtsp://admin:WVNDMB@192.168.0.182:554/H.264'
+url =''
 
 # ON/OFF for mail feature. Enter True to turn on the email alert feature.
 ALERT = False
